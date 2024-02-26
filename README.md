@@ -1,4 +1,4 @@
-## Olá! Me chamo Hideki e atualmente estudo Data Science
+## Olá! Me chamo Hideki e atualmente estudo Análise e Desenvolvimento de Sistemas na Fatec Mogi
 
 <!--
 Atualmente estou cursando ..... na ....., possuo alguns repositórios de projetos próprios que contém alguns dos conhecimentos que possuo
